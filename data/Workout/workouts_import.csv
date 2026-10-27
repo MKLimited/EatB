@@ -1,0 +1,644 @@
+title,category,met_value,target_muscle,difficulty
+Stair Climber,Cardio,8.0,Chân,Dễ
+Stationary Bike,Cardio,8.0,Chân,Dễ
+Elliptical Trainer,Cardio,8.0,Toàn thân,Dễ
+Incline Treadmill Walk,Cardio,8.0,Toàn thân,Dễ
+Rowing Machine,Cardio,8.0,Toàn thân,Dễ
+Running,Cardio,8.0,Toàn thân,Dễ
+SkiErg,Cardio,8.0,Toàn thân,Trung bình
+Treadmill Running,Cardio,8.0,Toàn thân,Dễ
+Walking,Cardio,3.5,Toàn thân,Dễ
+Mountain Climbers,HIIT,8.0,Bụng,Dễ
+Box Jump,HIIT,7.0,Chân,Trung bình
+Jump Squat,HIIT,7.0,Chân,Dễ
+Plyo Lunge,HIIT,7.0,Chân,Trung bình
+Plyo Push-Up,HIIT,7.0,Ngực,Trung bình
+Air Bike,HIIT,8.0,Toàn thân,Trung bình
+Battle Rope Double Slam,HIIT,10.3,Toàn thân,Trung bình
+Battle Ropes,HIIT,10.3,Toàn thân,Trung bình
+Burpees,HIIT,8.0,Toàn thân,Trung bình
+Clean,HIIT,8.0,Toàn thân,Trung bình
+Clean and Jerk,HIIT,8.0,Toàn thân,Trung bình
+Double Kettlebell Dead Clean,HIIT,8.0,Toàn thân,Trung bình
+Double Kettlebell Dead Split Snatch,HIIT,8.0,Toàn thân,Trung bình
+Double Kettlebell Split Jerk,HIIT,8.0,Toàn thân,Trung bình
+Double Kettlebell Swing Snatch,HIIT,8.0,Toàn thân,Trung bình
+Dumbbell Clean and Press,HIIT,8.0,Toàn thân,Trung bình
+Dumbbell Snatch,HIIT,8.0,Toàn thân,Trung bình
+Hang Clean,HIIT,8.0,Toàn thân,Trung bình
+Hang Power Clean,HIIT,8.0,Toàn thân,Trung bình
+Hang Snatch,HIIT,8.0,Toàn thân,Trung bình
+Heel Flicks,HIIT,8.0,Toàn thân,Dễ
+High Knees,HIIT,8.0,Toàn thân,Dễ
+Jump Rope,HIIT,11.8,Toàn thân,Dễ
+Jumping Jacks,HIIT,8.0,Toàn thân,Dễ
+Kettlebell Swing Clean,HIIT,8.0,Toàn thân,Trung bình
+Muscle Snatch,HIIT,8.0,Toàn thân,Trung bình
+Push Jerk,HIIT,8.0,Toàn thân,Trung bình
+Snatch,HIIT,8.0,Toàn thân,Trung bình
+Split Jerk,HIIT,8.0,Toàn thân,Trung bình
+Ab Wheel Rollout,Sức mạnh,6.0,Bụng,Trung bình
+Ball Pike,Sức mạnh,6.0,Bụng,Khó
+Barbell Ab Rollout,Sức mạnh,6.0,Bụng,Trung bình
+Bear Plank Hold,Sức mạnh,5.0,Bụng,Dễ
+Bench Hollow Hold,Sức mạnh,6.0,Bụng,Trung bình
+Bench Leg Pull-In,Sức mạnh,3.5,Bụng,Dễ
+Bicycle Crunch,Sức mạnh,5.0,Bụng,Dễ
+Bird Dog Hold,Sức mạnh,3.5,Bụng,Trung bình
+Bird-Dog,Sức mạnh,5.0,Bụng,Dễ
+Boat Pose,Sức mạnh,5.0,Bụng,Trung bình
+Cable Crunch,Sức mạnh,5.0,Bụng,Trung bình
+Cable Pallof Press,Sức mạnh,3.5,Bụng,Trung bình
+Captain's Chair Knee Raise,Sức mạnh,5.0,Bụng,Dễ
+Captain's Chair Leg Raise,Sức mạnh,5.0,Bụng,Trung bình
+Cocoons,Sức mạnh,5.0,Bụng,Trung bình
+Cross-Body Crunch,Sức mạnh,3.5,Bụng,Dễ
+Crunches,Sức mạnh,3.5,Bụng,Dễ
+Dead Bug,Sức mạnh,5.0,Bụng,Dễ
+Dead Bug Hold,Sức mạnh,5.0,Bụng,Dễ
+Decline Crunch,Sức mạnh,3.5,Bụng,Trung bình
+Downward Dog Knee Tuck,Sức mạnh,5.0,Bụng,Trung bình
+Downward Dog to Knee Drive,Sức mạnh,5.0,Bụng,Trung bình
+Dragon Flag,Sức mạnh,5.0,Bụng,Khó
+Dumbbell Side Bend,Sức mạnh,5.0,Bụng,Dễ
+Flutter Kicks,Sức mạnh,5.0,Bụng,Trung bình
+Half Moon Pose,Sức mạnh,5.0,Bụng,Khó
+Hanging Knee Raise,Sức mạnh,6.0,Bụng,Dễ
+Hanging L-Sit,Sức mạnh,6.0,Bụng,Khó
+Hanging Leg Raise,Sức mạnh,5.0,Bụng,Trung bình
+Hanging Pike,Sức mạnh,4.5,Bụng,Khó
+Hanging Tuck Hold,Sức mạnh,6.0,Bụng,Trung bình
+Heel Touches,Sức mạnh,5.0,Bụng,Trung bình
+High Plank,Sức mạnh,5.0,Bụng,Dễ
+Hollow Body Hold,Sức mạnh,5.0,Bụng,Trung bình
+Human Flag,Sức mạnh,6.0,Bụng,Khó
+Jackknife Sit-Up,Sức mạnh,5.0,Bụng,Trung bình
+Kettlebell Russian Twist,Sức mạnh,6.0,Bụng,Trung bình
+Lying Leg Raise,Sức mạnh,5.0,Bụng,Dễ
+Machine Seated Crunch,Sức mạnh,5.0,Bụng,Dễ
+Medicine Ball Slam,Sức mạnh,6.0,Bụng,Dễ
+Pilates Leg Pull Back,Sức mạnh,5.0,Bụng,Trung bình
+Pilates Leg Pull Front,Sức mạnh,5.0,Bụng,Trung bình
+Pilates Roll Over,Sức mạnh,5.0,Bụng,Khó
+Pilates Side Bend,Sức mạnh,5.0,Bụng,Trung bình
+Plank,Sức mạnh,3.5,Bụng,Dễ
+Plank Knee Tuck,Sức mạnh,5.0,Bụng,Trung bình
+Reverse Crunches,Sức mạnh,3.5,Bụng,Trung bình
+Reverse Plank,Sức mạnh,5.0,Bụng,Trung bình
+Reverse Tabletop Hold,Sức mạnh,5.0,Bụng,Dễ
+Revolved Chair Pose,Sức mạnh,5.0,Bụng,Trung bình
+Revolved Crescent Lunge,Sức mạnh,5.0,Bụng,Trung bình
+Ring L-Sit,Sức mạnh,6.0,Bụng,Khó
+Ring Plank,Sức mạnh,6.0,Bụng,Khó
+Russian Twist,Sức mạnh,3.5,Bụng,Dễ
+Scissor Kicks,Sức mạnh,5.0,Bụng,Trung bình
+Side Plank,Sức mạnh,3.5,Bụng,Dễ
+Side Plank Leg Lift Hold,Sức mạnh,5.0,Bụng,Trung bình
+Side Plank with Leg Lift,Sức mạnh,5.0,Bụng,Trung bình
+Sit-Ups,Sức mạnh,5.0,Bụng,Dễ
+Six Inch Hold,Sức mạnh,5.0,Bụng,Trung bình
+Stability Ball Knee Tuck,Sức mạnh,6.0,Bụng,Trung bình
+Suitcase Carry,Sức mạnh,5.5,Bụng,Dễ
+Supine Windshield Wipers,Sức mạnh,5.0,Bụng,Trung bình
+Supported Shoulderstand,Sức mạnh,5.0,Bụng,Trung bình
+TRX Plank,Sức mạnh,6.0,Bụng,Trung bình
+TRX Side Plank,Sức mạnh,6.0,Bụng,Trung bình
+Thoracic Bridge,Sức mạnh,5.0,Bụng,Trung bình
+Toes to Bar,Sức mạnh,6.0,Bụng,Trung bình
+V Ups,Sức mạnh,5.0,Bụng,Trung bình
+V-Sit,Sức mạnh,5.0,Bụng,Trung bình
+Weighted Wall Crunch,Sức mạnh,5.0,Bụng,Trung bình
+Banded Clamshell,Sức mạnh,5.0,Chân,Dễ
+Banded Fire Hydrant,Sức mạnh,5.0,Chân,Dễ
+Banded Glute Bridge,Sức mạnh,6.0,Chân,Dễ
+Banded Good Morning,Sức mạnh,6.0,Chân,Dễ
+Banded Hip Thrust,Sức mạnh,6.0,Chân,Dễ
+Banded Kneeling Hip Thrust,Sức mạnh,6.0,Chân,Dễ
+Banded Lateral Walk,Sức mạnh,6.0,Chân,Dễ
+Banded Romanian Deadlift,Sức mạnh,6.0,Chân,Dễ
+Banded Seated Hip Abduction,Sức mạnh,5.0,Chân,Dễ
+Banded Squat,Sức mạnh,6.0,Chân,Dễ
+Banded Standing Hip Abduction,Sức mạnh,5.0,Chân,Dễ
+Banded Standing Hip Adduction,Sức mạnh,5.0,Chân,Dễ
+Banded Standing Leg Curl,Sức mạnh,5.0,Chân,Dễ
+Banded Sumo Walk,Sức mạnh,6.0,Chân,Dễ
+Banded Terminal Knee Extension,Sức mạnh,5.0,Chân,Dễ
+Barbell Back Squat,Sức mạnh,6.0,Chân,Trung bình
+Barbell Bulgarian Split Squat,Sức mạnh,6.0,Chân,Khó
+Barbell Calf Raise,Sức mạnh,5.0,Chân,Trung bình
+Barbell Glute Bridge,Sức mạnh,6.0,Chân,Trung bình
+Barbell Hip Thrust,Sức mạnh,6.0,Chân,Trung bình
+Barbell Lunge,Sức mạnh,6.0,Chân,Trung bình
+Barbell Reverse Lunge,Sức mạnh,6.0,Chân,Trung bình
+Bodyweight Calf Raise,Sức mạnh,3.5,Chân,Dễ
+Bodyweight Reverse Lunge,Sức mạnh,5.0,Chân,Dễ
+Bodyweight Squat,Sức mạnh,6.0,Chân,Dễ
+Box Squat,Sức mạnh,6.0,Chân,Trung bình
+Bulgarian Split Squat,Sức mạnh,6.0,Chân,Trung bình
+Cable Glute Kickback,Sức mạnh,5.0,Chân,Trung bình
+Cable Pull-Through,Sức mạnh,6.0,Chân,Trung bình
+Chair Pose,Sức mạnh,5.0,Chân,Dễ
+Clamshell Hold,Sức mạnh,5.0,Chân,Trung bình
+Clamshells,Sức mạnh,5.0,Chân,Trung bình
+Close-Stance Leg Press,Sức mạnh,6.0,Chân,Dễ
+Cossack Squat,Sức mạnh,6.0,Chân,Trung bình
+Crescent Lunge,Sức mạnh,5.0,Chân,Trung bình
+Dancer Pose,Sức mạnh,5.0,Chân,Khó
+Deep Squat Hold,Sức mạnh,5.0,Chân,Dễ
+Donkey Calf Raise,Sức mạnh,3.5,Chân,Trung bình
+Dumbbell Calf Raise,Sức mạnh,5.0,Chân,Trung bình
+Dumbbell Front Squat,Sức mạnh,6.0,Chân,Trung bình
+Dumbbell Hip Thrust,Sức mạnh,6.0,Chân,Dễ
+Dumbbell Lunge,Sức mạnh,6.0,Chân,Trung bình
+Dumbbell Pistol Squat,Sức mạnh,6.0,Chân,Khó
+Dumbbell Somersault Squat,Sức mạnh,6.0,Chân,Trung bình
+Dumbbell Split Squat,Sức mạnh,6.0,Chân,Trung bình
+Dumbbell Squat,Sức mạnh,6.0,Chân,Dễ
+Dumbbell Sumo Squat,Sức mạnh,6.0,Chân,Dễ
+EZ-Bar Romanian Deadlift,Sức mạnh,6.0,Chân,Dễ
+Eagle Pose,Sức mạnh,5.0,Chân,Trung bình
+Extended Side Angle Pose,Sức mạnh,5.0,Chân,Trung bình
+Fire Hydrant,Sức mạnh,3.5,Chân,Dễ
+Front Squat,Sức mạnh,6.0,Chân,Trung bình
+Glute Bridge,Sức mạnh,3.5,Chân,Dễ
+Glute Bridge Hold,Sức mạnh,3.5,Chân,Dễ
+Glute Kickback,Sức mạnh,3.5,Chân,Dễ
+Glute Kickback Hold,Sức mạnh,3.5,Chân,Dễ
+Goblet Squat,Sức mạnh,6.0,Chân,Dễ
+Good Morning,Sức mạnh,6.0,Chân,Trung bình
+Hack Squat,Sức mạnh,6.0,Chân,Trung bình
+Hack Squat Calf Raise,Sức mạnh,5.0,Chân,Trung bình
+Heel-Elevated Squat,Sức mạnh,6.0,Chân,Trung bình
+Heel-to-Toe Walk,Sức mạnh,2.5,Chân,Dễ
+High-Foot Leg Press,Sức mạnh,6.0,Chân,Dễ
+Hip Adduction,Sức mạnh,5.0,Chân,Trung bình
+Horizontal Leg Press,Sức mạnh,6.0,Chân,Dễ
+Kettlebell Bulgarian Split Squat,Sức mạnh,6.0,Chân,Trung bình
+Kettlebell Goblet Lunge,Sức mạnh,6.0,Chân,Dễ
+Kettlebell Hip Thrust,Sức mạnh,6.0,Chân,Dễ
+Kettlebell Pistol Squat,Sức mạnh,6.0,Chân,Khó
+Kettlebell Reverse Lunge,Sức mạnh,6.0,Chân,Dễ
+Kettlebell Rotational Lunge,Sức mạnh,6.0,Chân,Trung bình
+Kettlebell Squat,Sức mạnh,6.0,Chân,Dễ
+Kettlebell Sumo Deadlift,Sức mạnh,6.0,Chân,Dễ
+Kettlebell Swing,Sức mạnh,8.0,Chân,Trung bình
+Kettlebell Tibialis Raise,Sức mạnh,5.0,Chân,Trung bình
+Leg Extension,Sức mạnh,5.0,Chân,Dễ
+Leg Press,Sức mạnh,6.0,Chân,Dễ
+Lunge,Sức mạnh,5.0,Chân,Trung bình
+Lying Leg Curl,Sức mạnh,5.0,Chân,Dễ
+Machine Calf Raise,Sức mạnh,5.0,Chân,Dễ
+Machine Hip Abduction,Sức mạnh,5.0,Chân,Dễ
+Nordic Hamstring Curl,Sức mạnh,5.0,Chân,Khó
+One Arm Kettlebell Front Squat,Sức mạnh,6.0,Chân,Trung bình
+One-Arm Single-Leg Dumbbell Romanian Deadlift,Sức mạnh,6.0,Chân,Khó
+One-Arm Single-Leg Kettlebell Romanian Deadlift,Sức mạnh,6.0,Chân,Khó
+Overhead Squat,Sức mạnh,6.0,Chân,Trung bình
+Pause Squat,Sức mạnh,6.0,Chân,Trung bình
+Pilates Kneeling Side Kick,Sức mạnh,5.0,Chân,Trung bình
+Pistol Squat,Sức mạnh,6.0,Chân,Khó
+Plate-Loaded Donkey Calf Raise,Sức mạnh,5.0,Chân,Dễ
+Plate-Loaded Glute Drive,Sức mạnh,6.0,Chân,Dễ
+Reverse Lunge,Sức mạnh,6.0,Chân,Trung bình
+Reverse Nordic Curl,Sức mạnh,3.5,Chân,Trung bình
+Reverse Tabletop Hip Pulses,Sức mạnh,5.0,Chân,Trung bình
+Romanian Deadlift,Sức mạnh,6.0,Chân,Trung bình
+Seated Calf Raise,Sức mạnh,5.0,Chân,Dễ
+Seated Leg Curl,Sức mạnh,5.0,Chân,Dễ
+Side Lunge,Sức mạnh,5.0,Chân,Trung bình
+Side Lying Hip Adduction,Sức mạnh,3.5,Chân,Trung bình
+Side-Lying Hip Abduction,Sức mạnh,3.5,Chân,Dễ
+Side-Lying Hip Abduction Hold,Sức mạnh,3.5,Chân,Dễ
+Side-Lying Hip Adduction Hold,Sức mạnh,3.5,Chân,Trung bình
+Single Leg Calf Raise,Sức mạnh,3.5,Chân,Dễ
+Single Leg Extension,Sức mạnh,5.0,Chân,Trung bình
+Single Leg Glute Bridge,Sức mạnh,5.0,Chân,Trung bình
+Single Leg Lying Leg Curl,Sức mạnh,5.0,Chân,Trung bình
+Single Leg Press,Sức mạnh,6.0,Chân,Trung bình
+Single Leg RDL Hold,Sức mạnh,5.0,Chân,Trung bình
+Single-Leg Glute Bridge Hold,Sức mạnh,5.0,Chân,Trung bình
+Smith Machine Bulgarian Split Squat,Sức mạnh,6.0,Chân,Trung bình
+Smith Machine Calf Raise,Sức mạnh,5.0,Chân,Dễ
+Smith Machine Front Squat,Sức mạnh,6.0,Chân,Dễ
+Smith Machine Good Morning,Sức mạnh,6.0,Chân,Dễ
+Smith Machine Hip Thrust,Sức mạnh,6.0,Chân,Dễ
+Smith Machine Reverse Lunge,Sức mạnh,6.0,Chân,Trung bình
+Smith Machine Romanian Deadlift,Sức mạnh,6.0,Chân,Dễ
+Smith Machine Split Squat,Sức mạnh,6.0,Chân,Trung bình
+Smith Machine Squat,Sức mạnh,6.0,Chân,Dễ
+Split Squat,Sức mạnh,6.0,Chân,Trung bình
+Squat Hold,Sức mạnh,5.0,Chân,Dễ
+Squat Pulse,Sức mạnh,5.0,Chân,Dễ
+Stability Ball Hip Bridge,Sức mạnh,5.0,Chân,Dễ
+Stability Ball Leg Curl,Sức mạnh,5.0,Chân,Trung bình
+Stability Ball Wall Squat,Sức mạnh,6.0,Chân,Dễ
+Standing Calf Raise,Sức mạnh,5.0,Chân,Dễ
+Step Ups,Sức mạnh,5.0,Chân,Trung bình
+Sumo Squat,Sức mạnh,6.0,Chân,Trung bình
+TRX Hamstring Curl,Sức mạnh,5.0,Chân,Trung bình
+TRX Lunge,Sức mạnh,6.0,Chân,Dễ
+TRX Pistol Squat,Sức mạnh,6.0,Chân,Trung bình
+TRX Squat,Sức mạnh,6.0,Chân,Dễ
+Tree Pose,Sức mạnh,5.0,Chân,Trung bình
+Walking Lunge,Sức mạnh,5.0,Chân,Trung bình
+Wall Sit,Sức mạnh,5.0,Chân,Dễ
+Warrior I,Sức mạnh,5.0,Chân,Trung bình
+Warrior II,Sức mạnh,5.0,Chân,Trung bình
+Warrior III,Sức mạnh,5.0,Chân,Trung bình
+Wide-Stance Leg Press,Sức mạnh,6.0,Chân,Dễ
+Zercher Squat,Sức mạnh,6.0,Chân,Khó
+Archer Pull Ups,Sức mạnh,6.0,Lưng,Khó
+Assisted Pull Ups,Sức mạnh,6.0,Lưng,Dễ
+Back Extension,Sức mạnh,3.5,Lưng,Dễ
+Band Assisted Pull Ups,Sức mạnh,6.0,Lưng,Dễ
+Barbell Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Barbell Pullover,Sức mạnh,6.0,Lưng,Trung bình
+Behind the Back Barbell Shrug,Sức mạnh,5.0,Lưng,Trung bình
+Behind-the-Neck Lat Pulldown,Sức mạnh,6.0,Lưng,Khó
+Behind-the-Neck Pull-Up,Sức mạnh,6.0,Lưng,Khó
+Bench Pull,Sức mạnh,6.0,Lưng,Trung bình
+Bent Arm Barbell Pullover,Sức mạnh,5.0,Lưng,Trung bình
+Bent-Arm EZ-Bar Pullover,Sức mạnh,6.0,Lưng,Trung bình
+Bent-Over Barbell Row,Sức mạnh,6.0,Lưng,Trung bình
+Bent-Over Dumbbell Row,Sức mạnh,6.0,Lưng,Trung bình
+Bent-Over EZ-Bar Row,Sức mạnh,6.0,Lưng,Trung bình
+Bodyweight Good Morning,Sức mạnh,5.0,Lưng,Dễ
+Bow Pose,Sức mạnh,5.0,Lưng,Trung bình
+Cable Bent-Over Row,Sức mạnh,6.0,Lưng,Trung bình
+Chest Supported Dumbbell Shrug,Sức mạnh,5.0,Lưng,Trung bình
+Chest-Supported Dumbbell Row,Sức mạnh,6.0,Lưng,Trung bình
+Chest-Supported Kettlebell Row,Sức mạnh,6.0,Lưng,Dễ
+Chest-Supported Machine Row,Sức mạnh,6.0,Lưng,Dễ
+Chest-Supported Smith Machine Row,Sức mạnh,6.0,Lưng,Dễ
+Chin-Ups,Sức mạnh,6.0,Lưng,Trung bình
+Close Grip Lat Pulldown,Sức mạnh,6.0,Lưng,Trung bình
+Close-Grip Pull-Ups,Sức mạnh,6.0,Lưng,Trung bình
+Commando Pull-Up,Sức mạnh,6.0,Lưng,Khó
+Dead Hang,Sức mạnh,4.5,Lưng,Trung bình
+Deficit Deadlift,Sức mạnh,6.0,Lưng,Khó
+Double Dumbbell Kickstand Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Double Kettlebell Row,Sức mạnh,6.0,Lưng,Trung bình
+Dumbbell Bench Pull,Sức mạnh,6.0,Lưng,Trung bình
+Dumbbell Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Dumbbell Face Pull,Sức mạnh,5.0,Lưng,Trung bình
+Dumbbell Kickstand Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Dumbbell Romanian Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+EZ Bar Pullover,Sức mạnh,6.0,Lưng,Trung bình
+EZ Bar Reverse Grip Row,Sức mạnh,6.0,Lưng,Trung bình
+Flexed Arm Hang,Sức mạnh,6.0,Lưng,Trung bình
+Floor Kettlebell Pullover,Sức mạnh,6.0,Lưng,Dễ
+Front Lever,Sức mạnh,6.0,Lưng,Khó
+Hex Bar Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Inverted Row,Sức mạnh,6.0,Lưng,Trung bình
+Jefferson Curl,Sức mạnh,6.0,Lưng,Trung bình
+Kettlebell Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Kettlebell Kickstand Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Kettlebell Pullover,Sức mạnh,6.0,Lưng,Trung bình
+Kettlebell Shrug,Sức mạnh,5.0,Lưng,Dễ
+Kettlebell Single Leg Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Kneeling Cable Row,Sức mạnh,6.0,Lưng,Dễ
+Lat Pulldown,Sức mạnh,6.0,Lưng,Dễ
+Locust Pose,Sức mạnh,5.0,Lưng,Dễ
+Machine Back Extension,Sức mạnh,5.0,Lưng,Dễ
+Muscle Ups,Sức mạnh,6.0,Lưng,Khó
+Negative Pull Ups,Sức mạnh,6.0,Lưng,Dễ
+Neutral Grip Pull Ups,Sức mạnh,6.0,Lưng,Trung bình
+One Arm Kettlebell Row,Sức mạnh,6.0,Lưng,Trung bình
+One-Arm Lat Pulldown,Sức mạnh,6.0,Lưng,Trung bình
+One-Arm Seated Cable Row,Sức mạnh,6.0,Lưng,Trung bình
+Pause Deadlift,Sức mạnh,6.0,Lưng,Khó
+Pause Pull-Up,Sức mạnh,6.0,Lưng,Khó
+Pendlay Row,Sức mạnh,6.0,Lưng,Trung bình
+Plate Pullover,Sức mạnh,6.0,Lưng,Dễ
+Plate-Loaded Shrug,Sức mạnh,5.0,Lưng,Dễ
+Pull-Up,Sức mạnh,6.0,Lưng,Trung bình
+Rack Pull,Sức mạnh,6.0,Lưng,Trung bình
+Renegade Row,Sức mạnh,6.0,Lưng,Trung bình
+Reverse Grip Bent Over Row,Sức mạnh,6.0,Lưng,Trung bình
+Reverse Grip Lat Pulldown,Sức mạnh,6.0,Lưng,Trung bình
+Ring Dead Hang,Sức mạnh,4.5,Lưng,Trung bình
+Ring Face Pull,Sức mạnh,6.0,Lưng,Trung bình
+Ring Muscle-Up,Sức mạnh,6.0,Lưng,Khó
+Ring Row,Sức mạnh,6.0,Lưng,Dễ
+Rings Inverted Row,Sức mạnh,6.0,Lưng,Trung bình
+Rope Climb,Sức mạnh,6.0,Lưng,Khó
+Scapular Pull Ups,Sức mạnh,6.0,Lưng,Trung bình
+Seated Cable Row,Sức mạnh,6.0,Lưng,Trung bình
+Single Leg Romanian Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Single-Arm Chest-Supported Dumbbell Row,Sức mạnh,6.0,Lưng,Trung bình
+Single-Arm Dumbbell Row,Sức mạnh,6.0,Lưng,Trung bình
+Sled Row,Sức mạnh,6.0,Lưng,Trung bình
+Smith Machine Bent Over Row,Sức mạnh,6.0,Lưng,Dễ
+Smith Machine Reverse Grip Bent Over Row,Sức mạnh,6.0,Lưng,Dễ
+Smith Machine Shrug,Sức mạnh,5.0,Lưng,Dễ
+Stiff Leg Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Straight-Arm Pulldown,Sức mạnh,5.0,Lưng,Trung bình
+Sumo Deadlift,Sức mạnh,6.0,Lưng,Trung bình
+Superman,Sức mạnh,3.5,Lưng,Dễ
+T-Bar Row,Sức mạnh,6.0,Lưng,Trung bình
+TRX Row,Sức mạnh,6.0,Lưng,Dễ
+V-Bar Lat Pulldown,Sức mạnh,6.0,Lưng,Dễ
+Weighted Pull-Up,Sức mạnh,6.0,Lưng,Khó
+Wide Grip Pull Ups,Sức mạnh,6.0,Lưng,Trung bình
+Wide Grip Seated Cable Row,Sức mạnh,6.0,Lưng,Trung bình
+Archer Push Ups,Sức mạnh,5.0,Ngực,Khó
+Barbell Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Cable Chest Press,Sức mạnh,6.0,Ngực,Trung bình
+Cable Fly,Sức mạnh,5.0,Ngực,Trung bình
+Chest Dips,Sức mạnh,6.0,Ngực,Trung bình
+Clap Push-Ups,Sức mạnh,7.0,Ngực,Khó
+Close Grip Push Ups,Sức mạnh,5.0,Ngực,Trung bình
+Decline Barbell Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Decline Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Decline Dumbbell Fly,Sức mạnh,5.0,Ngực,Trung bình
+Decline EZ-Bar Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Decline Push-Up,Sức mạnh,5.0,Ngực,Trung bình
+Deficit Push Ups,Sức mạnh,5.0,Ngực,Khó
+Diamond Push Ups,Sức mạnh,5.0,Ngực,Trung bình
+Dumbbell Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Dumbbell Floor Press,Sức mạnh,6.0,Ngực,Trung bình
+Dumbbell Fly,Sức mạnh,5.0,Ngực,Dễ
+Dumbbell Pullover,Sức mạnh,6.0,Ngực,Trung bình
+Dumbbell Svend Press,Sức mạnh,5.0,Ngực,Dễ
+EZ-Bar Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Floor EZ-Bar Press,Sức mạnh,6.0,Ngực,Trung bình
+Floor Press,Sức mạnh,6.0,Ngực,Trung bình
+Incline Barbell Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Incline Dumbbell Fly,Sức mạnh,5.0,Ngực,Trung bình
+Incline Dumbbell Press,Sức mạnh,6.0,Ngực,Trung bình
+Incline EZ-Bar Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Incline Push-Up,Sức mạnh,5.0,Ngực,Dễ
+Kettlebell Floor Press,Sức mạnh,6.0,Ngực,Trung bình
+Kettlebell Svend Press,Sức mạnh,5.0,Ngực,Dễ
+Knee Push Ups,Sức mạnh,5.0,Ngực,Dễ
+Machine Chest Fly,Sức mạnh,5.0,Ngực,Dễ
+Machine Chest Press,Sức mạnh,6.0,Ngực,Dễ
+One Arm Kettlebell Floor Glute Bridge Press,Sức mạnh,6.0,Ngực,Trung bình
+One Arm Kettlebell Floor Press,Sức mạnh,6.0,Ngực,Trung bình
+Paused Bench Press,Sức mạnh,6.0,Ngực,Khó
+Paused Incline Bench Press,Sức mạnh,6.0,Ngực,Khó
+Pec Deck,Sức mạnh,5.0,Ngực,Dễ
+Planche,Sức mạnh,6.0,Ngực,Khó
+Pseudo Planche Push Ups,Sức mạnh,5.0,Ngực,Khó
+Push-Up,Sức mạnh,5.0,Ngực,Dễ
+Ring Dips,Sức mạnh,6.0,Ngực,Khó
+Ring Push-Up,Sức mạnh,6.0,Ngực,Trung bình
+Single Arm Dumbbell Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Single Dumbbell Svend Press,Sức mạnh,5.0,Ngực,Dễ
+Smith Machine Bench Press,Sức mạnh,6.0,Ngực,Dễ
+Smith Machine Decline Bench Press,Sức mạnh,6.0,Ngực,Dễ
+Smith Machine Incline Bench Press,Sức mạnh,6.0,Ngực,Dễ
+Spiderman Push-Up,Sức mạnh,5.0,Ngực,Trung bình
+Spoto Press,Sức mạnh,6.0,Ngực,Trung bình
+Stability Ball Push-Up,Sức mạnh,6.0,Ngực,Trung bình
+Stability Ball Push-Up (Hands on Ball),Sức mạnh,6.0,Ngực,Trung bình
+Straight Bar Dips,Sức mạnh,6.0,Ngực,Trung bình
+Svend Press,Sức mạnh,5.0,Ngực,Dễ
+TRX Chest Press,Sức mạnh,6.0,Ngực,Dễ
+Wall Push Ups,Sức mạnh,5.0,Ngực,Dễ
+Weighted Dips,Sức mạnh,6.0,Ngực,Khó
+Wide Grip Push Ups,Sức mạnh,5.0,Ngực,Trung bình
+Wide-Grip Bench Press,Sức mạnh,6.0,Ngực,Trung bình
+Barbell Curl,Sức mạnh,5.0,Tay,Dễ
+Barbell Overhead Extension,Sức mạnh,5.0,Tay,Trung bình
+Barbell Preacher Curl,Sức mạnh,5.0,Tay,Trung bình
+Barbell Wrist Curl,Sức mạnh,5.0,Tay,Dễ
+Bench Dips,Sức mạnh,5.0,Tay,Trung bình
+Bilateral Dumbbell Wrist Curl,Sức mạnh,5.0,Tay,Dễ
+Cable Curl,Sức mạnh,5.0,Tay,Dễ
+Cable Hammer Curl,Sức mạnh,5.0,Tay,Trung bình
+Cable Overhead Tricep Extension,Sức mạnh,5.0,Tay,Trung bình
+Cable Tricep Kickback,Sức mạnh,5.0,Tay,Trung bình
+Cable Tricep Pushdown,Sức mạnh,5.0,Tay,Dễ
+Cable Wrist Curl,Sức mạnh,5.0,Tay,Trung bình
+Cheat Curl,Sức mạnh,5.0,Tay,Trung bình
+Close-Grip Barbell Curl,Sức mạnh,5.0,Tay,Dễ
+Close-Grip Bench Press,Sức mạnh,6.0,Tay,Trung bình
+Close-Grip Dumbbell Bench Press,Sức mạnh,6.0,Tay,Trung bình
+Close-Grip EZ-Bar Bench Press,Sức mạnh,6.0,Tay,Trung bình
+Close-Grip EZ-Bar Curl,Sức mạnh,5.0,Tay,Dễ
+Close-Grip Incline Bench Press,Sức mạnh,6.0,Tay,Trung bình
+Concentration Curl,Sức mạnh,5.0,Tay,Dễ
+Crab Dips,Sức mạnh,5.0,Tay,Trung bình
+Cross Body Hammer Curl,Sức mạnh,5.0,Tay,Trung bình
+Crow Pose,Sức mạnh,5.0,Tay,Khó
+Double Kettlebell Bicep Curl,Sức mạnh,5.0,Tay,Dễ
+Drag Curl,Sức mạnh,5.0,Tay,Trung bình
+Dumbbell Bicep Curl,Sức mạnh,5.0,Tay,Dễ
+Dumbbell Hammer Curl,Sức mạnh,5.0,Tay,Dễ
+Dumbbell Preacher Curl,Sức mạnh,5.0,Tay,Dễ
+Dumbbell Reverse Curl,Sức mạnh,5.0,Tay,Dễ
+Dumbbell Reverse Wrist Curl,Sức mạnh,5.0,Tay,Dễ
+Dumbbell Skull Crusher,Sức mạnh,5.0,Tay,Trung bình
+Dumbbell Tricep Extension,Sức mạnh,5.0,Tay,Dễ
+Dumbbell Tricep Kickback,Sức mạnh,5.0,Tay,Dễ
+Dumbbell Wrist Curl,Sức mạnh,5.0,Tay,Dễ
+EZ Bar Spider Curl,Sức mạnh,5.0,Tay,Trung bình
+EZ-Bar Curl,Sức mạnh,5.0,Tay,Dễ
+EZ-Bar Lying Triceps Extension,Sức mạnh,5.0,Tay,Trung bình
+EZ-Bar Overhead Tricep Extension,Sức mạnh,5.0,Tay,Trung bình
+EZ-Bar Reverse Curl,Sức mạnh,5.0,Tay,Dễ
+EZ-Bar Wrist Curl,Sức mạnh,5.0,Tay,Dễ
+Incline Dumbbell Curl,Sức mạnh,5.0,Tay,Trung bình
+Incline Hammer Curl,Sức mạnh,5.0,Tay,Trung bình
+Kettlebell Close-Grip Floor Press,Sức mạnh,6.0,Tay,Trung bình
+Kettlebell Concentration Curl,Sức mạnh,5.0,Tay,Dễ
+Kettlebell Hammer Curl,Sức mạnh,5.0,Tay,Dễ
+Kettlebell Overhead Tricep Extension,Sức mạnh,5.0,Tay,Trung bình
+Kettlebell Reverse Wrist Curl,Sức mạnh,5.0,Tay,Dễ
+Kettlebell Skull Crusher,Sức mạnh,5.0,Tay,Trung bình
+Kettlebell Wrist Curl,Sức mạnh,5.0,Tay,Dễ
+Lying Tricep Extension,Sức mạnh,5.0,Tay,Trung bình
+Machine Assisted Dips,Sức mạnh,6.0,Tay,Dễ
+Machine Bicep Curl,Sức mạnh,5.0,Tay,Dễ
+Machine Preacher Curl,Sức mạnh,5.0,Tay,Dễ
+Machine Triceps Extension,Sức mạnh,5.0,Tay,Dễ
+One Arm Dumbbell Preacher Curl,Sức mạnh,5.0,Tay,Trung bình
+One Arm Kettlebell Bicep Curl,Sức mạnh,5.0,Tay,Trung bình
+One-Arm Kettlebell Tricep Kickback,Sức mạnh,5.0,Tay,Dễ
+Overhead Tricep Extension,Sức mạnh,5.0,Tay,Dễ
+Plate Pinch,Sức mạnh,5.0,Tay,Trung bình
+Plate-Loaded Seated Dip Machine,Sức mạnh,6.0,Tay,Trung bình
+Preacher Curl,Sức mạnh,5.0,Tay,Dễ
+Preacher Hammer Curl,Sức mạnh,5.0,Tay,Trung bình
+Reverse Curl,Sức mạnh,5.0,Tay,Dễ
+Reverse Plank Dips,Sức mạnh,5.0,Tay,Trung bình
+Seated Dip Machine,Sức mạnh,6.0,Tay,Dễ
+Seated Dumbbell Curl,Sức mạnh,5.0,Tay,Dễ
+Seated Dumbbell Tricep Extension,Sức mạnh,5.0,Tay,Dễ
+Single Arm Tricep Pushdown,Sức mạnh,6.0,Tay,Trung bình
+Single-Arm Dumbbell Overhead Tricep Extension,Sức mạnh,5.0,Tay,Dễ
+Single-Arm Hammer Curl,Sức mạnh,5.0,Tay,Trung bình
+Skull Crusher,Sức mạnh,5.0,Tay,Trung bình
+Spider Curl,Sức mạnh,5.0,Tay,Trung bình
+Strict Curl,Sức mạnh,5.0,Tay,Trung bình
+TRX Bicep Curl,Sức mạnh,5.0,Tay,Dễ
+TRX Triceps Extension,Sức mạnh,5.0,Tay,Trung bình
+V-Bar Tricep Pushdown,Sức mạnh,5.0,Tay,Dễ
+Wrist Roller,Sức mạnh,6.0,Tay,Trung bình
+Zottman Curl,Sức mạnh,5.0,Tay,Trung bình
+Back Lever,Sức mạnh,6.0,Toàn thân,Khó
+Bear Crawl,Sức mạnh,5.0,Toàn thân,Dễ
+Chin Tuck Hold,Sức mạnh,5.0,Toàn thân,Trung bình
+Dumbbell Farmer's Walk,Sức mạnh,5.5,Toàn thân,Dễ
+Dumbbell Windmill,Sức mạnh,5.0,Toàn thân,Trung bình
+Inchworm,Sức mạnh,5.0,Toàn thân,Dễ
+Kettlebell Farmer's Walk,Sức mạnh,5.5,Toàn thân,Trung bình
+Kettlebell Lunge Press,Sức mạnh,6.0,Toàn thân,Trung bình
+Kettlebell Offset Reverse Lunge and Press,Sức mạnh,6.0,Toàn thân,Trung bình
+Kettlebell Turkish Get Ups,Sức mạnh,6.0,Toàn thân,Trung bình
+Kettlebell Windmills,Sức mạnh,5.0,Toàn thân,Trung bình
+L Sit,Sức mạnh,6.0,Toàn thân,Khó
+One Arm Kettlebell Swing,Sức mạnh,8.0,Toàn thân,Trung bình
+One-Arm Dumbbell Swing,Sức mạnh,8.0,Toàn thân,Trung bình
+Arnold Press,Sức mạnh,6.0,Vai,Trung bình
+Band Pull Apart,Sức mạnh,5.0,Vai,Dễ
+Barbell Front Raise,Sức mạnh,5.0,Vai,Trung bình
+Barbell Overhead Press,Sức mạnh,6.0,Vai,Trung bình
+Barbell Rear Delt Row,Sức mạnh,6.0,Vai,Trung bình
+Barbell Shrug,Sức mạnh,5.0,Vai,Dễ
+Barbell Upright Row,Sức mạnh,6.0,Vai,Trung bình
+Behind the Neck Press,Sức mạnh,6.0,Vai,Trung bình
+Bodyweight Lateral Raise,Sức mạnh,3.5,Vai,Dễ
+Bodyweight Overhead Press,Sức mạnh,5.0,Vai,Dễ
+Cable External Rotation,Sức mạnh,6.0,Vai,Trung bình
+Cable Face Pull,Sức mạnh,6.0,Vai,Dễ
+Cable Front Raise,Sức mạnh,5.0,Vai,Trung bình
+Cable Lateral Raise,Sức mạnh,5.0,Vai,Trung bình
+Cable Upright Row,Sức mạnh,6.0,Vai,Trung bình
+Dolphin Pose,Sức mạnh,5.0,Vai,Trung bình
+Double Dumbbell Overhead Carry,Sức mạnh,5.5,Vai,Trung bình
+Double Kettlebell Clean,Sức mạnh,8.0,Vai,Khó
+Double Kettlebell Clean and Press,Sức mạnh,8.0,Vai,Khó
+Double Kettlebell Jerk,Sức mạnh,8.0,Vai,Khó
+Double Kettlebell Overhead Carry,Sức mạnh,5.5,Vai,Khó
+Double Kettlebell Overhead Press,Sức mạnh,6.0,Vai,Trung bình
+Double Kettlebell Push Press,Sức mạnh,6.0,Vai,Trung bình
+Double Kettlebell Rear Delt Row,Sức mạnh,6.0,Vai,Trung bình
+Downward Dog to Plank,Sức mạnh,5.0,Vai,Trung bình
+Downward Dog to Upward Dog,Sức mạnh,5.0,Vai,Trung bình
+Dumbbell Curl and Press,Sức mạnh,6.0,Vai,Trung bình
+Dumbbell Front Raise,Sức mạnh,5.0,Vai,Dễ
+Dumbbell Lateral Raise,Sức mạnh,5.0,Vai,Dễ
+Dumbbell Overhead Carry,Sức mạnh,5.5,Vai,Trung bình
+Dumbbell Push Press,Sức mạnh,6.0,Vai,Trung bình
+Dumbbell Reverse Fly,Sức mạnh,5.0,Vai,Trung bình
+Dumbbell Shoulder Press,Sức mạnh,6.0,Vai,Trung bình
+Dumbbell Shrug,Sức mạnh,5.0,Vai,Dễ
+Dumbbell Upright Row,Sức mạnh,6.0,Vai,Trung bình
+EZ-Bar Front Raise,Sức mạnh,5.0,Vai,Dễ
+EZ-Bar Shrug,Sức mạnh,5.0,Vai,Dễ
+EZ-Bar Upright Row,Sức mạnh,6.0,Vai,Trung bình
+Handstand Hold,Sức mạnh,5.0,Vai,Khó
+Handstand Push Ups,Sức mạnh,5.0,Vai,Khó
+Isometric Neck Lateral Flexion,Sức mạnh,3.5,Vai,Dễ
+Kettlebell Halo,Sức mạnh,5.0,Vai,Dễ
+Kettlebell Overhead Carry,Sức mạnh,5.5,Vai,Trung bình
+Kettlebell Sumo High Pull,Sức mạnh,6.0,Vai,Trung bình
+Landmine Press,Sức mạnh,6.0,Vai,Trung bình
+Machine Reverse Fly,Sức mạnh,5.0,Vai,Dễ
+Machine Shoulder Press,Sức mạnh,6.0,Vai,Dễ
+One Arm Dumbbell Shoulder Press,Sức mạnh,6.0,Vai,Trung bình
+One Arm Kettlebell Push Press,Sức mạnh,6.0,Vai,Trung bình
+One Arm Kettlebell Shoulder Press,Sức mạnh,6.0,Vai,Trung bình
+One-Arm Dumbbell Push Press,Sức mạnh,6.0,Vai,Trung bình
+One-Arm Kettlebell Bottoms-Up Press,Sức mạnh,6.0,Vai,Khó
+One-Arm Landmine Press,Sức mạnh,6.0,Vai,Trung bình
+Paused Overhead Press,Sức mạnh,6.0,Vai,Khó
+Pike Push Ups,Sức mạnh,5.0,Vai,Trung bình
+Plate-Loaded Lateral Raise,Sức mạnh,5.0,Vai,Dễ
+Push Press,Sức mạnh,6.0,Vai,Trung bình
+Rear Delt Fly,Sức mạnh,5.0,Vai,Dễ
+Seated Barbell Overhead Press,Sức mạnh,6.0,Vai,Trung bình
+Seated Dumbbell Lateral Raise,Sức mạnh,5.0,Vai,Dễ
+Seated Dumbbell Shoulder Press,Sức mạnh,6.0,Vai,Trung bình
+Seated Smith Machine Shoulder Press,Sức mạnh,6.0,Vai,Dễ
+Side-Lying Lateral Raise,Sức mạnh,5.0,Vai,Dễ
+Single-Arm Machine Shoulder Press,Sức mạnh,6.0,Vai,Dễ
+Single-Arm Plate-Loaded Lateral Raise,Sức mạnh,5.0,Vai,Dễ
+Smith Machine Shoulder Press,Sức mạnh,6.0,Vai,Dễ
+Smith Machine Upright Row,Sức mạnh,6.0,Vai,Dễ
+Straight-Bar Cable Front Raise,Sức mạnh,5.0,Vai,Trung bình
+TRX Face Pull,Sức mạnh,6.0,Vai,Dễ
+TRX Y-Fly,Sức mạnh,5.0,Vai,Trung bình
+Three-Legged Downward Dog,Sức mạnh,5.0,Vai,Trung bình
+Thruster,Sức mạnh,6.0,Vai,Trung bình
+Camel Pose,Yoga & Giãn cơ,2.3,Bụng,Trung bình
+Cobra Stretch,Yoga & Giãn cơ,2.3,Bụng,Dễ
+Pilates Spine Twist,Yoga & Giãn cơ,2.3,Bụng,Trung bình
+Sphinx Pose,Yoga & Giãn cơ,2.3,Bụng,Dễ
+Standing Side Bend,Yoga & Giãn cơ,2.3,Bụng,Dễ
+Standing Side Bend Flow,Yoga & Giãn cơ,2.3,Bụng,Dễ
+Torso Twists,Yoga & Giãn cơ,3.5,Bụng,Dễ
+Upward-Facing Dog,Yoga & Giãn cơ,2.3,Bụng,Trung bình
+Banded Adductor Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Banded Ankle Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Banded Calf Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Banded Figure-4 Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Banded Hamstring Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Banded IT-Band Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Bench Adductor Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Bench Ankle Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Bench Bulgarian Split Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Bench Calf Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Bench Couch Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Bench Figure-4 Glute Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Bench Hamstring Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Butterfly Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Downward Dog Pedal,Yoga & Giãn cơ,2.3,Chân,Dễ
+Downward Dog to Low Lunge,Yoga & Giãn cơ,2.3,Chân,Dễ
+Easy Pose,Yoga & Giãn cơ,1.5,Chân,Dễ
+Front-to-Back Leg Swing,Yoga & Giãn cơ,3.5,Chân,Dễ
+Garland Pose,Yoga & Giãn cơ,2.3,Chân,Dễ
+Half-Kneeling Hip Flexor Rock,Yoga & Giãn cơ,2.3,Chân,Dễ
+Happy Baby Pose,Yoga & Giãn cơ,2.3,Chân,Dễ
+Head-to-Knee Pose,Yoga & Giãn cơ,2.3,Chân,Dễ
+Hero Pose,Yoga & Giãn cơ,1.5,Chân,Dễ
+Knee-to-Chest Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Kneeling Hip Flexor Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Lateral Leg Swing,Yoga & Giãn cơ,3.5,Chân,Dễ
+Legs-Up-the-Wall Pose,Yoga & Giãn cơ,1.5,Chân,Dễ
+Lizard Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Low Lunge,Yoga & Giãn cơ,2.3,Chân,Dễ
+Low Lunge to Half Split,Yoga & Giãn cơ,2.3,Chân,Dễ
+Pigeon Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Pyramid Pose,Yoga & Giãn cơ,2.3,Chân,Trung bình
+Seated Forward Fold,Yoga & Giãn cơ,2.3,Chân,Dễ
+Seated Straddle Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Standing Calf Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Standing Forward Fold,Yoga & Giãn cơ,2.3,Chân,Dễ
+Standing Forward Fold to Half Lift,Yoga & Giãn cơ,2.3,Chân,Dễ
+Standing Quad Stretch,Yoga & Giãn cơ,2.3,Chân,Dễ
+Standing Split,Yoga & Giãn cơ,2.3,Chân,Khó
+Triangle Pose,Yoga & Giãn cơ,2.3,Chân,Trung bình
+Wide-Legged Forward Fold,Yoga & Giãn cơ,2.3,Chân,Dễ
+Banded Lat Stretch,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Bench Child's Pose,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Bench Lat Stretch,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Cat Stretch,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Cat-Cow,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Child's Pose,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Neck Side Stretch,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Pilates Roll Down,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Pilates Saw,Yoga & Giãn cơ,2.3,Lưng,Trung bình
+Pilates Spine Stretch Forward,Yoga & Giãn cơ,2.3,Lưng,Trung bình
+Plow Pose,Yoga & Giãn cơ,2.3,Lưng,Trung bình
+Seated Spinal Twist,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Supine Spinal Twist,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Thread the Needle,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Thread the Needle Flow,Yoga & Giãn cơ,2.3,Lưng,Dễ
+Banded Chest Stretch,Yoga & Giãn cơ,2.3,Ngực,Dễ
+Bench Chest Stretch,Yoga & Giãn cơ,2.3,Ngực,Dễ
+Doorway Chest Stretch,Yoga & Giãn cơ,2.3,Ngực,Dễ
+Fish Pose,Yoga & Giãn cơ,2.3,Ngực,Trung bình
+Banded Triceps Stretch,Yoga & Giãn cơ,2.3,Tay,Dễ
+Kneeling Wrist Stretch,Yoga & Giãn cơ,2.3,Tay,Dễ
+Overhead Triceps Stretch,Yoga & Giãn cơ,2.3,Tay,Dễ
+Corpse Pose,Yoga & Giãn cơ,1.3,Toàn thân,Dễ
+Downward-Facing Dog,Yoga & Giãn cơ,2.3,Toàn thân,Dễ
+Mountain Pose,Yoga & Giãn cơ,2.0,Toàn thân,Dễ
+Banded Rear Delt Stretch,Yoga & Giãn cơ,2.3,Vai,Dễ
+Banded Shoulder Stretch,Yoga & Giãn cơ,2.3,Vai,Dễ
+Cow Face Pose,Yoga & Giãn cơ,2.3,Vai,Dễ
+Cross-Body Shoulder Stretch,Yoga & Giãn cơ,2.3,Vai,Dễ
+Puppy Pose,Yoga & Giãn cơ,2.3,Vai,Dễ
